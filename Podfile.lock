@@ -1,0 +1,22 @@
+PODS:
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Charts
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: d4d056e717f97609220bb70cfb74bac468ff4097
+
+COCOAPODS: 1.10.1
